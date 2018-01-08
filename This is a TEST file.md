@@ -15,6 +15,7 @@ and there is a picture file in the choosen folder.
 ## Test 2
 
 ### step 1
+![enter description here][1]
 
 
-
+  [1]: ./images/1515428909706.jpg
